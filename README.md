@@ -1,6 +1,6 @@
 # Data Description
 
-The dataset is taken from [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings), and describes 1700 bars of chocolate with ratings obtained by the expert and information about producer, bean origin etc. Specifically, for every bar it contains the following information:
+The dataset is taken from [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings), and describes 1700 bars of chocolate with ratings obtained by an expert chocolate taster and information about producer, bean origin etc. Specifically, for every bar it contains the following information:
 * Information about the producer:
   * Name of the producer (for example: **A. Morin**)
   * Location (country) of the producers (**France**)
